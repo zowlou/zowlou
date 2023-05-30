@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,ps,figma,js,html,css,sass,tailwind,bootstrap,react,php,laravel,visualstudio,github,mysql,nodejs)](https://skillicons.dev)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-            [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,ps,figma,javascript,html,css,sass,tailwind,bootstrap,react,php,laravel,visualstudio,github,mysql,nodejs)](https://skillicons.dev)
+            [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,ps,figma,js,html,css,sass,tailwind,bootstrap,react,php,laravel,visualstudio,github,mysql,nodejs)](https://skillicons.dev)
 
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="45" height="45"/>          
