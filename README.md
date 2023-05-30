@@ -3,7 +3,7 @@
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,react,php,laravel,mysql,nodejs,ai,ps,figma,visualstudio,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,php,laravel,mysql,visualstudio,github,ai,ps,figma,)
 
 
  
