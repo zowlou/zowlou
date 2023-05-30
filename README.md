@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:32519b,100:465c99&height=200&section=header&text=Hello%20I'M%20David%20Lorent&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:32519b,100:465c99&height=200&section=header&text=Hello%20I'M%20David%20Lorent&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 
 <!--
